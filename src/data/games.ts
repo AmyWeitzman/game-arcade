@@ -19,8 +19,7 @@ export const games: Game[] = [
     status: 'playable',
     players: 'Single Player',
     emoji: '🌿',
-    // TODO: verify this matches your actual GitHub Pages repo name
-    url: 'https://amyweitzman.github.io/yoda-mad-libs',
+    url: 'https://amyweitzman.github.io/Yoda-Mad-Libs',
   },
   {
     id: 'minion-translator',
@@ -29,8 +28,7 @@ export const games: Game[] = [
     status: 'playable',
     players: 'Single Player',
     emoji: '🟡',
-    // TODO: verify this matches your actual GitHub Pages repo name
-    url: 'https://amyweitzman.github.io/minion-translator',
+    url: 'https://amyweitzman.github.io/English-to-Minion-Translator',
   },
   {
     id: 'real-life',

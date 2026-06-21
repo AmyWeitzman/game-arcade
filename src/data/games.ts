@@ -161,10 +161,11 @@ export const games: Game[] = [
   {
     id: 'beach-cleanup',
     title: 'Beach Clean-Up',
-    description: 'Walk the beach, pick up trash, and dodge obstacles in this environmental desktop game.',
-    status: 'coming-soon',
+    description: 'Walk the beach, pick up trash, and dodge obstacles in this environmental arcade game.',
+    status: 'playable',
     players: 'Single Player',
     emoji: '🏖️',
+    url: 'https://amyweitzman.github.io/beach-cleanup-web/',
   },
   {
     id: 'wikipedia-races',

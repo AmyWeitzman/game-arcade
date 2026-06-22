@@ -153,10 +153,11 @@ export const games: Game[] = [
   {
     id: 'horcrux-catch',
     title: 'Horcrux Catch',
-    description: 'Fly on your broomstick, dodge magical barriers, and collect Horcruxes in this Harry Potter PyGame adventure.',
-    status: 'coming-soon',
+    description: 'Fly on your broomstick, dodge Dementors, and collect all 6 Horcruxes to defeat Voldemort in this Harry Potter arcade game.',
+    status: 'playable',
     players: 'Single Player',
     emoji: '🧹',
+    url: 'https://amyweitzman.github.io/horcrux-catch-web/',
   },
   {
     id: 'beach-cleanup',

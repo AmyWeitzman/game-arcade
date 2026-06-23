@@ -173,8 +173,9 @@ export const games: Game[] = [
     id: 'wikipedia-races',
     title: 'Wikipedia Races Solver',
     description: 'Give it a starting Wikipedia page and a destination — it finds the shortest click-path between them.',
-    status: 'coming-soon',
+    status: 'download',
     players: 'Single Player',
     emoji: '📖',
+    url: 'https://github.com/AmyWeitzman/Wikipedia-Races-Solver',
   },
 ]

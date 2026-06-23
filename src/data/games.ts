@@ -34,9 +34,10 @@ export const games: Game[] = [
     id: 'real-life',
     title: 'Real Life',
     description: 'A Game of Life-inspired web app where players take turns making life decisions and watching the consequences unfold.',
-    status: 'coming-soon',
+    status: 'playable',
     players: 'Multiplayer',
     emoji: '🌱',
+    url: 'https://footballfan00.pythonanywhere.com',
   },
   {
     id: 'lemonade',

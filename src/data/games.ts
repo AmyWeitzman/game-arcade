@@ -147,9 +147,10 @@ export const games: Game[] = [
     id: 'house-hunt',
     title: 'House Hunt',
     description: 'Race around the house to find objects fitting a category starting with a specific letter. Scattergories meets scavenger hunt.',
-    status: 'coming-soon',
+    status: 'playable',
     players: 'Multiplayer',
     emoji: '🏠',
+    url: 'https://amyweitzman.github.io/house-hunt-v2/',
   },
   {
     id: 'horcrux-catch',
